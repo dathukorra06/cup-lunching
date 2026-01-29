@@ -1,5 +1,5 @@
 # cup-lunching:- link:- 
-cup-lunching-soon.netlify.app
+https://cup-lunching-soon.netlify.app/
 # Chai Culture Landing Page - Project Summary
 
 ## 🎯 What Was Created
@@ -51,7 +51,7 @@ A premium "Coming Soon" landing page for **Chai Culture** - a brand bringing roy
 ## 🚀 Ready to Deploy
 
 Files included:
-- `index.html` - Complete landing page
+- `index.html` - Complete landing page :- https://cup-lunching-soon.netlify.app/
 - `README.md` - Deployment instructions
 - `.gitignore` - Git configuration
 
